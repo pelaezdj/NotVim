@@ -1,0 +1,59 @@
+[colors.normal]
+# 30,40   Visual Mode text color
+black = "#000000"
+# 31,41
+red = "#D85050"
+# 32,42
+green = "#309330"
+# 33,43
+yellow = "#848400"
+# 34,44
+blue = "#7171FF"
+# 35,45
+magenta = "#C84DC8"
+# 36,46 
+cyan = "#009090"
+# 37,47 
+white = "#808080"
+
+[colors.bright]
+# 90,100
+black = "#FF0000"
+# 91,101
+red = "#FF0000"
+# 92,102
+green = "#00FF00"
+# 93,103   Search result highlight color
+yellow = "#000000"
+# 94,104   End-of-file tilde color
+blue = "#AF5F00"
+# 95,105
+magenta = "#FF00FF"
+# 96,106   Opposite bracket highlight color
+cyan = "#000000"
+# 97,107   Error message text color
+white = "#000000"
+
+[colors.dim]
+# I don't think these are even being used
+black = "#FF0000"
+blue = "#0000FF"
+cyan = "#00FFFF"
+green = "#00FF00"
+magenta = "#FF00FF"
+red = "#FF0000"
+white = "#FF0000"
+yellow = "#FFFF00"
+
+[colors.primary]
+background = "#151821"
+foreground = "#D0D0D0"
+
+[env]
+TERM = "alacritty"
+
+[font]
+size = 9.5
+
+[window]
+dynamic_title = true
