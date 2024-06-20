@@ -1,4 +1,4 @@
-I'm not a programmer but I'd like to share my nonsense.
+I'm not a programmer by trade but I'd like to share my nonsense.
 
 Here is a ".vimrc" that makes Vim behave like a typical text editor. Why would one want this? I dunno but I personally want something better than Nano but worse than stock Vim.
 
