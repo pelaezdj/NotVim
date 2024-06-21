@@ -4,6 +4,8 @@ Here is a ".vimrc" that makes Vim behave like a typical text editor. Why would o
 
 It behaves like one would typically expect. Ctrl+S is save, Ctrl+C is copy, navigate with arrow keys, etc.
 
+Ctrl+L will allow one to type in "colon commands"
+
 WARNING: if you must run this in a TTY, open tmux first.
 
 Have fun!
